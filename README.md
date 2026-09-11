@@ -14,7 +14,7 @@ Xin chào! Tôi là **Nguyễn Thanh Tùng** (Tungronoro) — lập trình viên
 
 Trang portfolio này được xây dựng bằng **HTML + CSS + JavaScript thuần**, phong cách dark glassmorphism với gradient tím — xanh cyan.
 
-## 🔗 Link nhanh (click được)
+## 🔗 Link nhanh
 
 | Link | Mô tả |
 |---|---|
