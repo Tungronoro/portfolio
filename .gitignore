@@ -1,6 +1,9 @@
 # Cline internal tools
 .cline/
 
+# graphify (đồ thị sinh tự động, không track)
+graphify-out/
+
 # OS files
 Thumbs.db
 .DS_Store
